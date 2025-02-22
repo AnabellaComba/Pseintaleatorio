@@ -1,0 +1,2 @@
+# Pseintaleatorio
+Se describe aleatorio
