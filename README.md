@@ -1,4 +1,4 @@
 # Pseintaleatorio
 Se describe aleatorio
 
-#se señala modifica repo
+#se cambia repo
