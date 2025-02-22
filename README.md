@@ -1,4 +1,6 @@
 # Pseintaleatorio
 Se describe aleatorio
 
-Acta de modificación
+es necesario pasar actualización
+
+en casa de Jenny
