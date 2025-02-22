@@ -1,4 +1,4 @@
 # Pseintaleatorio
 Se describe aleatorio
 
-#se señala modificaciones 
+#se señala modifica tipo
