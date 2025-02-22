@@ -3,4 +3,4 @@ Se describe aleatorio
 
 es necesario pasar actualización
 
-en casa 
+en casa de Jenny
