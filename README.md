@@ -1,4 +1,4 @@
 # Pseintaleatorio
 Se describe aleatorio
 
-Actualización 
+Acta de modificación
